@@ -2,6 +2,8 @@
 
 # Voyage Slider
 
+## This website is specifically designed and developed for the purpose of practice and skill enhancement.
+
 # language and tools use:
 - HTML
 - CSS
